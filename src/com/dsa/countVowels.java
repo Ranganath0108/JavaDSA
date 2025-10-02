@@ -1,4 +1,4 @@
-package com.dsa.sample;
+package com.dsa;
 
 
 //Input : abc de

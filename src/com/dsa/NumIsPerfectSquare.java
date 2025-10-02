@@ -1,4 +1,4 @@
-package com.dsa.sample;
+package com.dsa;
 
 
 //Given a number n, check if it is a perfect square or not.

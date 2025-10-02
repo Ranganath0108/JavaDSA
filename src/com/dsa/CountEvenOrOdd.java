@@ -1,4 +1,4 @@
-package com.dsa.sample;
+package com.dsa;
 
 /*You are given an array arr[]. Your task is to count the number of even and odd elements. Return first odd count then even count.
 
@@ -11,8 +11,6 @@ Explanation: There are two odds[3, 5] and three even[2, 4, 6] present in the arr
 Input: arr = [22, 32, 42, 52, 62]
 Output: 0 5
 Explanation: All the elements are even.*/
-
-import java.util.Arrays;
 
 public class CountEvenOrOdd {
 

@@ -1,4 +1,4 @@
-package com.dsa.sample;
+package com.dsa;
 
 //Given a number N, the task is to convert every digit of the number into words.
 //
